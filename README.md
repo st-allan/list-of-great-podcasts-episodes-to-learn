@@ -1,18 +1,18 @@
-## Table Legend
+# A List of Podcasts to Learn Something New
 
-- **#**: Episode number in your list
-- **Date**: Release date of the episode
-- **Podcast Name**: Name of the podcast series
-- **Episode Title**: Title of the specific episode
-- **Duration**: Length of the episode
-- **Rating**: Your personal rating (★ to ★★★★★)
-- **Topics**: Main subjects covered in the episode
+I have many interests, but this list is oriented toward **tech, business, education, and general personal improvement**.
+
+Episodes are being added to the list as I listen to them, so there is not a particular ranking. 
+
+The **"Notes"** column on the table will take you to a detailed review of the podcast episode in **Spanish** on my [personal website](https://alangarciamuniz.com). 
+
+I'm always open to new recommendations; let me know if you have listened to something cool lately! 😎
 
 ## Podcast Episodes
 
-| #  | Date       | Podcast Name      | Episode Title              | Duration | Rating  | Topics                   |
-|----|------------|-------------------|----------------------------|----------|---------|--------------------------|
-| 1  | 2023-09-01 | Example Podcast   | How to Learn Markdown       | 45m      | ★★★★☆   | Markdown, GitHub          |
-| 2  | 2023-09-08 | Tech Talk Podcast | The Future of AI            | 60m      | ★★★★★   | AI, Technology, Future    |
-| 3  | 2023-09-15 | Dev Discussions   | Web Development in 2024     | 50m      | ★★★☆☆   | Web Development, Trends   |
+| #  | Date       | Episode           | Podcast                     | Duration | Topics                  | Notes     | Spotify   |
+|----|------------|-------------------|-----------------------------|----------|-------------------------|-----------|-----------|
+| 1  | 2023-09-01 | Example Podcast   | How to Learn Markdown       | 45m      |                         | URL here  | URL here  |
+| 2  | 2023-09-08 | Tech Talk Podcast | The Future of AI            | 60m      | AI, Technology, Future  |           |           |
+| 3  | 2023-09-15 | Dev Discussions   | Web Development in 2024     | 50m      | Web Development, Trends |           |           |
 
