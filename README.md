@@ -10,9 +10,9 @@ I'm always open to new recommendations; let me know if you have listened to some
 
 ## Podcast Episodes
 
-| #  | Date       | Episode           | Podcast                     | Duration | Topics                  | Notes     | Spotify   |
-|----|------------|-------------------|-----------------------------|----------|-------------------------|-----------|-----------|
-| 1  | 2023-09-01 | Example Podcast   | How to Learn Markdown       | 45m      |                         | URL here  | URL here  |
-| 2  | 2023-09-08 | Tech Talk Podcast | The Future of AI            | 60m      | AI, Technology, Future  |           |           |
-| 3  | 2023-09-15 | Dev Discussions   | Web Development in 2024     | 50m      | Web Development, Trends |           |           |
+| #  | Date       | Episode           | Podcast                     | Duration | Topics                  | Notes     | 
+|----|------------|-------------------|-----------------------------|----------|-------------------------|-----------|
+| 1  | 2023-09-01 | [Example Podcast](example url)   | How to Learn Markdown       | 45m      |                         | URL here  | 
+| 2  | 2023-09-08 | Tech Talk Podcast | The Future of AI            | 60m      | AI, Technology, Future  |           | 
+| 3  | 2023-09-15 | Dev Discussions   | Web Development in 2024     | 50m      | Web Development, Trends |           | 
 
