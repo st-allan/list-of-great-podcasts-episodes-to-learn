@@ -1,4 +1,4 @@
-# A List of Podcasts to Learn Something New
+# A List of Podcast Episodes to Learn Something New
 
 I have many interests, but this list is oriented toward **tech, business, education, and general personal improvement**.
 
